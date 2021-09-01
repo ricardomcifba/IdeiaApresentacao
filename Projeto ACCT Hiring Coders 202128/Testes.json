@@ -1,0 +1,11 @@
+{
+    "Teste":{
+        "children": [
+            "Erica Akira",
+            "Anaivânia Cardoso"
+        ],
+        "Testes de Composição":true,
+        "Testes de Integração":true,
+        "Teste de Compras"    
+    }
+}

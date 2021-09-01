@@ -1,0 +1,35 @@
+{
+    "Frontend"{
+
+        "block": [
+            "VTEX.IO",
+            "AWS",
+            "Leads"
+        ],
+
+    },
+
+    "VTEX.IO":{
+        "childen": [
+            "Dante Souza e Souza"
+        ],
+        "porps":{
+
+        }
+    },
+
+    "Leads":{
+        "childen": [
+            "Nathan Liyodi Nariai"
+        ],
+
+    "AWS":{
+        "children": [
+            "Allysson Fernando Guedes de Almeida"
+        ],
+        "props":{
+            "API AWS":true,
+            "DynamoDB":true
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Frontend"{
+        "block":[ 
+            "Header",
+            "Footer",
+            "Home"
+        ]
+    },
+    "Header":{
+        "childen": [
+            "Ricardo Carvalho"
+        ],
+        "porps":{
+            "Menu":true,
+            "Logo":true
+        }        
+    },
+    "Footer":{
+        "children": [
+            "Wanderson Lontra"
+        ],
+        "props":{
+            "Logo": true,
+            "Social Network":true,
+            "Endereços":true
+        }
+    },
+    "Home":{
+        "children": [
+            "Ricardo Kubo",
+            "Christiane Natacha Gozza",
+            "Emily Talini P. de Sousa
+            "
+        ],
+        "props":{
+            "About-us":true,
+            "Serviços":true,
+            "Contato":true,
+            "Leads":true
+        }
+    }
+}
